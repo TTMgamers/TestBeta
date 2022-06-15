@@ -1,7 +1,7 @@
 {
-  "name": "RamdaniOfficial",
+  "name": "TogaOfficial",
   "version": "0.0.1",
-  "description": "© Creator by Ramdani official",
+  "description": "© Creator by TogaRyzen official",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Ramdani Official",
+  "author": "Ryzenn Official",
   "license": "ISC",
   "dependencies": {
   "@adiwajshing/baileys": "^3.5.2",
